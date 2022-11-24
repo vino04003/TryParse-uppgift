@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\tryparse\bin\Debug\net6.0\tryparse.exe
+C:\Users\Admin\Desktop\tryparse\bin\Debug\net6.0\tryparse.deps.json
+C:\Users\Admin\Desktop\tryparse\bin\Debug\net6.0\tryparse.runtimeconfig.json
+C:\Users\Admin\Desktop\tryparse\bin\Debug\net6.0\tryparse.dll
+C:\Users\Admin\Desktop\tryparse\bin\Debug\net6.0\tryparse.pdb
+C:\Users\Admin\Desktop\tryparse\obj\Debug\net6.0\tryparse.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\tryparse\obj\Debug\net6.0\tryparse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\tryparse\obj\Debug\net6.0\tryparse.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\tryparse\obj\Debug\net6.0\tryparse.AssemblyInfo.cs
+C:\Users\Admin\Desktop\tryparse\obj\Debug\net6.0\tryparse.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\tryparse\obj\Debug\net6.0\tryparse.dll
+C:\Users\Admin\Desktop\tryparse\obj\Debug\net6.0\refint\tryparse.dll
+C:\Users\Admin\Desktop\tryparse\obj\Debug\net6.0\tryparse.pdb
+C:\Users\Admin\Desktop\tryparse\obj\Debug\net6.0\tryparse.genruntimeconfig.cache
+C:\Users\Admin\Desktop\tryparse\obj\Debug\net6.0\ref\tryparse.dll
